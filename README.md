@@ -1,4 +1,4 @@
-# Advent of Code README Updater
+# Advent of Code Readme Updater
 
 [![GitHub Super-Linter][badge-action-linter]][super-linter]
 [![CI][badge-action-ci]][action-ci]
@@ -12,7 +12,6 @@
 
 [action-ci]: https://github.com/kevin-belellou/aoc-readme-updater/actions/workflows/ci.yml
 [action-check-dist]: https://github.com/kevin-belellou/aoc-readme-updater/actions/workflows/check-dist.yml
-[action-linter]: https://github.com/kevin-belellou/aoc-readme-updater/actions/workflows/linter.yml
 [action-code-ql]: https://github.com/kevin-belellou/aoc-readme-updater/actions/workflows/codeql-analysis.yml
 
 [super-linter]: https://github.com/super-linter/super-linter
