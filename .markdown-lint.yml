@@ -6,11 +6,12 @@ MD004:
 
 # Disable line length for tables
 MD013:
+  #  line_length: 120
   tables: false
 
 # Ordered list item prefix
 MD029:
-  style: one
+  style: ordered
 
 # Spaces after list markers
 MD030:
@@ -22,3 +23,15 @@ MD030:
 # Code block style
 MD046:
   style: fenced
+
+# Reference links and images should use a label that is defined
+MD052:
+  shortcut_syntax: true
+
+# Link and image style
+MD054:
+  autolink: false
+  collapsed: false
+  full: false
+  inline: false
+  url_inline: false
