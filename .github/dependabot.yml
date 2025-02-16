@@ -11,16 +11,9 @@ updates:
     directory: /
     schedule:
       interval: daily
+    commit-message:
+      prefix: '[npm] '
     ignore:
       - dependency-name: '@types/node'
         update-types:
           - 'version-update:semver-major'
-    groups:
-      npm-development:
-        dependency-type: development
-        commit-message:
-          prefix: '[npm dev] '
-      npm-production:
-        dependency-type: production
-        commit-message:
-          prefix: '[npm prod] '
