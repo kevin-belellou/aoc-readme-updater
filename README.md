@@ -1,4 +1,4 @@
-# Advent of Code Readme Updater
+# Advent of Code readme updater
 
 [![GitHub Super-Linter][badge-action-linter]][super-linter]
 [![CI][badge-action-ci]][action-ci]
