@@ -1,8 +1,8 @@
 # Advent of Code readme updater
 
-[![GitHub Super-Linter][badge-action-linter]][super-linter]
 [![CI][badge-action-ci]][action-ci]
 [![Check dist/][badge-action-check-dist]][action-check-dist]
+[![GitHub Super-Linter][badge-action-linter]][super-linter]
 [![CodeQL][badge-action-code-ql]][action-code-ql]
 
 [badge-action-ci]: https://github.com/kevin-belellou/aoc-readme-updater/actions/workflows/ci.yml/badge.svg?branch=main
